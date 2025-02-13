@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>luisbarajasr</title>
+    <title>this is a thought on luisbarajasr</title>
     <link>http://localhost:1313/luispage/thoughts/</link>
-    <description>Recent content on luisbarajasr</description>
+    <description>Recent content in this is a thought on luisbarajasr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© luisbarajasr</copyright>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/luispage/thoughts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

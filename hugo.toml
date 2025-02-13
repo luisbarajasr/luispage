@@ -6,7 +6,7 @@ copyright = "© luisbarajasr"
 
 [params]
 	mode = "auto" # color-mode → light,dark,toggle or auto
-	subtitle = "hello world"
+	subtitle = "I don't know where am I going, but im still moving."
 
 [[params.social]]
 name = "GitHub"
@@ -19,16 +19,16 @@ icon = "twitter"
 url = "https://twitter.com/luisbarajasrmz/"
 
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "posts"
+url = "/posts"
 weight = 1
-
-[[menu.main]]
-name = "thoughts"
-url = "/thoughts"
-weight = 2
 
 [[menu.main]]
 name = "wow"
 url = "/wow"
+weight = 2
+
+[[menu.main]]
+name = "thoughts"
+url = "/thoughts"
 weight = 3

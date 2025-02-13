@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>this is a thought on luisbarajasr</title>
+    <link>http://localhost:1313/luispage/wow/thoughts/</link>
+    <description>Recent content in this is a thought on luisbarajasr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© luisbarajasr</copyright>
+    <lastBuildDate>Wed, 12 Feb 2025 19:37:32 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/luispage/wow/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>this is a ANOTHER thought</title>
+      <link>http://localhost:1313/luispage/wow/thoughts/idk2/</link>
+      <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
+      <guid>http://localhost:1313/luispage/wow/thoughts/idk2/</guid>
+      <description>&lt;p&gt;this is a ANOTHER thought&#39;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>this is a thought</title>
+      <link>http://localhost:1313/luispage/wow/thoughts/idk/</link>
+      <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
+      <guid>http://localhost:1313/luispage/wow/thoughts/idk/</guid>
+      <description>&lt;p&gt;this is a thought&#39;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

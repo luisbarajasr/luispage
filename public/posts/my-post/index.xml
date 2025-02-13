@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index the MY-POST on luisbarajasr</title>
+    <link>http://localhost:1313/luispage/posts/my-post/</link>
+    <description>Recent content in index the MY-POST on luisbarajasr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© luisbarajasr</copyright>
+    <lastBuildDate>Wed, 12 Feb 2025 19:37:32 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/luispage/posts/my-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hola</title>
+      <link>http://localhost:1313/luispage/posts/my-post/about/</link>
+      <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
+      <guid>http://localhost:1313/luispage/posts/my-post/about/</guid>
+      <description>&lt;p&gt;Que tal, me llamo Luis barajas. Esta es mi pagina. Fun fact, i had to erase and download plenty of times due errors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HOLA 2</title>
+      <link>http://localhost:1313/luispage/posts/my-post/about2/</link>
+      <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
+      <guid>http://localhost:1313/luispage/posts/my-post/about2/</guid>
+      <description>&lt;p&gt;HOLA 2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
