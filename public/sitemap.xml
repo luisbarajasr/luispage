@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luisbarajasr.github.io/luispage/posts/about/</loc>
+    <loc>http://localhost:1313/luispage/posts/about/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/</loc>
+    <loc>http://localhost:1313/luispage/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/posts/</loc>
+    <loc>http://localhost:1313/luispage/posts/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/categories/</loc>
+    <loc>http://localhost:1313/luispage/categories/</loc>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/tags/</loc>
+    <loc>http://localhost:1313/luispage/tags/</loc>
   </url>
 </urlset>

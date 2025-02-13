@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on luisbarajasr</title>
-    <link>https://luisbarajasr.github.io/luispage/categories/</link>
+    <link>http://localhost:1313/luispage/categories/</link>
     <description>Recent content in Categories on luisbarajasr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://luisbarajasr.github.io/luispage/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© luisbarajasr</copyright>
+    <atom:link href="http://localhost:1313/luispage/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

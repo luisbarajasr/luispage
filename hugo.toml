@@ -2,6 +2,11 @@ baseURL = 'https://luisbarajasr.github.io/luispage/'
 languageCode = 'en-us'
 title = 'luisbarajasr'
 theme = 'archie'
+copyright = "© luisbarajasr"
+
+[params]
+	mode = "auto" # color-mode → light,dark,toggle or auto
+	subtitle = "hello world"
 
 [[params.social]]
 name = "GitHub"
