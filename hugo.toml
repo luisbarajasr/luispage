@@ -2,3 +2,28 @@ baseURL = 'https://luisbarajasr.github.io/luispage/'
 languageCode = 'en-us'
 title = 'luisbarajasr'
 theme = 'archie'
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/luisbarajasr"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/luisbarajasrmz/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "thoughts"
+url = "/thoughts"
+weight = 2
+
+[[menu.main]]
+name = "wow"
+url = "/wow"
+weight = 3
