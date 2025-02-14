@@ -5,10 +5,10 @@
     <loc>http://localhost:1313/luispage/posts/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/luispage/posts/about/</loc>
+    <loc>http://localhost:1313/luispage/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/luispage/</loc>
+    <loc>http://localhost:1313/luispage/posts/about/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/luispage/wow/</loc>

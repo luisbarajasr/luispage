@@ -1,6 +1,6 @@
 +++
 date = '2025-02-12T19:37:32-06:00'
-title = 'hola'
+title = 'me'
 description = 'Hello this is Luis barajas.'
 +++
-Que tal, me llamo Luis barajas. Esta es mi pagina. Fun fact, i had to erase and download plenty of times due errors.
+i am a cs student at itesm mx. i don't quite have yet a specific area but i am curious in AI and human moral/ethics, networks, and economics.
