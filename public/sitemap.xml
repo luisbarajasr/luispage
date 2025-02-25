@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luisbarajasr.github.io/luispage/</loc>
+    <loc>http://localhost:1313/luispage/</loc>
     <lastmod>2025-02-24T22:45:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/links/</loc>
+    <loc>http://localhost:1313/luispage/links/</loc>
     <lastmod>2025-02-24T22:45:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/posts/</loc>
+    <loc>http://localhost:1313/luispage/wow/</loc>
+    <lastmod>2025-02-24T22:45:32-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/luispage/posts/</loc>
     <lastmod>2025-02-23T19:07:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/posts/thoughts/learn/</loc>
+    <loc>http://localhost:1313/luispage/posts/thoughts/learn/</loc>
     <lastmod>2025-02-23T19:07:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/posts/about/</loc>
+    <loc>http://localhost:1313/luispage/posts/about/</loc>
     <lastmod>2025-02-12T19:37:32-06:00</lastmod>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/wow/</loc>
-    <lastmod>2025-02-12T19:37:32-06:00</lastmod>
+    <loc>http://localhost:1313/luispage/categories/</loc>
   </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/categories/</loc>
-  </url><url>
-    <loc>https://luisbarajasr.github.io/luispage/tags/</loc>
+    <loc>http://localhost:1313/luispage/tags/</loc>
   </url>
 </urlset>
