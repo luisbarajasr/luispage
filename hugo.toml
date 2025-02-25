@@ -32,3 +32,8 @@ weight = 2
 name = "thoughts"
 url = "/thoughts"
 weight = 3
+
+[[menu.main]]
+name = "links"
+url = "/links"
+weight = 4

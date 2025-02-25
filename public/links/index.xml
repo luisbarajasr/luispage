@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on luisbarajasr</title>
+    <link>http://localhost:1313/luispage/links/</link>
+    <description>Recent content in Links on luisbarajasr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© luisbarajasr</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 22:45:32 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/luispage/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>some usefull link</title>
+      <link>http://localhost:1313/luispage/links/links/</link>
+      <pubDate>Mon, 24 Feb 2025 22:45:32 -0600</pubDate>
+      <guid>http://localhost:1313/luispage/links/links/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luisbarajasr&#34;&gt;Richard Sutton&lt;/a&gt; - personally find good reads the &amp;lsquo;The Bitter Lesson&amp;rsquo; and &amp;lsquo;Mind is About Information&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Alignment-Problem-Machine-Learning-English-ebook/dp/B085T55LGK&#34;&gt;The Alignment Problem&lt;/a&gt; - get to know some issues about AI and human values.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
