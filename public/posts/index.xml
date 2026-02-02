@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>luisbarajasr</title>
-    <link>https://luisbarajasr.github.io/luispage/posts/</link>
+    <link>luisbarajasr.xyz/posts/</link>
     <description>Recent content on luisbarajasr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© luisbarajasr</copyright>
     <lastBuildDate>Sun, 23 Feb 2025 19:07:32 -0600</lastBuildDate>
-    <atom:link href="https://luisbarajasr.github.io/luispage/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="luisbarajasr.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>things to learn</title>
-      <link>https://luisbarajasr.github.io/luispage/posts/thoughts/learn/</link>
+      <link>luisbarajasr.xyz/posts/thoughts/learn/</link>
       <pubDate>Sun, 23 Feb 2025 19:07:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/posts/thoughts/learn/</guid>
+      <guid>luisbarajasr.xyz/posts/thoughts/learn/</guid>
       <description>&lt;p&gt;i have always wanted to keep learning plenty of things, not only about tech, and i do have a long list of things to learn. But if I had to summarize it to a few points, i think they would be:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How can AI be developed to align with human ethics and morals?&lt;/li&gt;&#xA;&lt;li&gt;Economics and its related fields&lt;/li&gt;&#xA;&lt;li&gt;Human evolution and human brain&lt;/li&gt;&#xA;&lt;li&gt;Philosophy&lt;/li&gt;&#xA;&lt;li&gt;Cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;Blockchain/crypto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;if you have any helpful articles, videos, recommendations, books, etc., please share them with me thxs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>me</title>
-      <link>https://luisbarajasr.github.io/luispage/posts/about/</link>
+      <link>luisbarajasr.xyz/posts/about/</link>
       <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/posts/about/</guid>
+      <guid>luisbarajasr.xyz/posts/about/</guid>
       <description>&lt;p&gt;i am a cs student at itesm mx. i don&amp;rsquo;t quite have yet a specific area but i am curious in AI and human moral/ethics, networks, and economics.&lt;/p&gt;</description>
     </item>
   </channel>

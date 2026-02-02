@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>luisbarajasr</title>
-    <link>https://luisbarajasr.github.io/luispage/</link>
+    <link>luisbarajasr.xyz/</link>
     <description>Recent content on luisbarajasr</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© luisbarajasr</copyright>
     <lastBuildDate>Mon, 24 Feb 2025 22:45:32 -0600</lastBuildDate>
-    <atom:link href="https://luisbarajasr.github.io/luispage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="luisbarajasr.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>some usefull link</title>
-      <link>https://luisbarajasr.github.io/luispage/links/</link>
+      <link>luisbarajasr.xyz/links/</link>
       <pubDate>Mon, 24 Feb 2025 22:45:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/links/</guid>
+      <guid>luisbarajasr.xyz/links/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luisbarajasr&#34;&gt;Richard Sutton&lt;/a&gt; - personally find good reads the &amp;lsquo;The Bitter Lesson&amp;rsquo; and &amp;lsquo;Mind is About Information&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Alignment-Problem-Machine-Learning-English-ebook/dp/B085T55LGK&#34;&gt;The Alignment Problem&lt;/a&gt; - get to know some issues about AI and human values.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://psychclassics.yorku.ca/Maslow/motivation.htm&#34;&gt;A Theory of Human Motivation&lt;/a&gt; - a small theory on human motivation according Maslow pyramid.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>thigs i liked </title>
-      <link>https://luisbarajasr.github.io/luispage/wow/</link>
+      <link>luisbarajasr.xyz/wow/</link>
       <pubDate>Mon, 24 Feb 2025 22:45:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/wow/</guid>
+      <guid>luisbarajasr.xyz/wow/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://x.com/karpathy/status/1894099637218545984&#34;&gt;agency &amp;gt; intelligence&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>things to learn</title>
-      <link>https://luisbarajasr.github.io/luispage/posts/thoughts/learn/</link>
+      <link>luisbarajasr.xyz/posts/thoughts/learn/</link>
       <pubDate>Sun, 23 Feb 2025 19:07:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/posts/thoughts/learn/</guid>
+      <guid>luisbarajasr.xyz/posts/thoughts/learn/</guid>
       <description>&lt;p&gt;i have always wanted to keep learning plenty of things, not only about tech, and i do have a long list of things to learn. But if I had to summarize it to a few points, i think they would be:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How can AI be developed to align with human ethics and morals?&lt;/li&gt;&#xA;&lt;li&gt;Economics and its related fields&lt;/li&gt;&#xA;&lt;li&gt;Human evolution and human brain&lt;/li&gt;&#xA;&lt;li&gt;Philosophy&lt;/li&gt;&#xA;&lt;li&gt;Cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;Blockchain/crypto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;if you have any helpful articles, videos, recommendations, books, etc., please share them with me thxs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>me</title>
-      <link>https://luisbarajasr.github.io/luispage/posts/about/</link>
+      <link>luisbarajasr.xyz/posts/about/</link>
       <pubDate>Wed, 12 Feb 2025 19:37:32 -0600</pubDate>
-      <guid>https://luisbarajasr.github.io/luispage/posts/about/</guid>
+      <guid>luisbarajasr.xyz/posts/about/</guid>
       <description>&lt;p&gt;i am a cs student at itesm mx. i don&amp;rsquo;t quite have yet a specific area but i am curious in AI and human moral/ethics, networks, and economics.&lt;/p&gt;</description>
     </item>
   </channel>
