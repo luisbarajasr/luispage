@@ -1,4 +1,4 @@
-baseURL = 'luisbarajasr.xyz'
+baseURL = 'https://luisbarajasr.xyz/'
 languageCode = 'en-us'
 title = 'luisbarajasr'
 theme = 'archie'
@@ -6,7 +6,7 @@ copyright = "© luisbarajasr"
 
 [params]
 	mode = "auto" # color-mode → light,dark,toggle or auto
-	subtitle = "I don't know where am I going, but im still moving."
+	subtitle = "keep moving."
 
 [[params.social]]
 name = "GitHub"
